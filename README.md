@@ -3,7 +3,7 @@
 This script let's you play the Tetris Theme A through a Buzzer (Piezo) style speaker.<br>
 Feel free to add more songs, a description on how to is in the commentary.<br>
 <br>
-Make sure to select the correct GPIO Pin, I've used #12, since it's one of the two Hardware PWM's pf the RPi 3.<br>
+Make sure to select the correct GPIO Pin, I've used #12, since it's one of the two Hardware PWM's of the RPi 3.<br>
 Every other Pin will work aswell, but it'll be software emulated and may result in inaccurate results and high CPU load.<br>
 
 ### Demo Video on Youtube
